@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 46416794fb5aa4d28946834e1737e198
+timeCreated: 1492905213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hat
+    21300002: ArmR
+    21300004: CalfL
+    21300006: Belt
+    21300008: ArmL
+    21300010: Hand
+    21300012: CalfR
+    21300014: Helmet
+    21300016: ShirtArmL
+    21300018: Torso
+    21300020: ShirtArmR
+    21300022: Neck
+    21300024: Eye
+    21300026: Pelvis
+    21300028: Mouth
+    21300030: Head
+    21300032: ForearmR
+    21300034: Shirt
+    21300036: Boot
+    21300038: ThighL
+    21300040: ForearmL
+    21300042: ThighR
+    21300044: BeltBuckle
+    21300046: Hat
+    21300048: ArmR
+    21300050: CalfL
+    21300052: Belt
+    21300054: ArmL
+    21300056: Hand
+    21300058: CalfR
+    21300060: Helmet
+    21300062: ShirtArmL
+    21300064: ForearmL
+    21300066: Head
+    21300068: Mouth
+    21300070: Mouth
+    21300072: ForearmR
+    21300074: Boot
+    21300076: Torso
+    21300078: Pelvis
+    21300080: ForearmL
+    21300082: Pelvis
+    21300084: ThighL
+    21300086: ShirtArmR
+    21300088: ThighR
+    21300090: Eye
+    21300092: HelmetShine
+    21300094: Player_21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hat
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 212
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArmR
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 498
+        width: 19
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CalfL
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 457
+        width: 17
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47275767, y: 0.77134496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Belt
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 433
+        width: 40
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArmL
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 424
+        width: 19
+        height: 12
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hand
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 430
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CalfR
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 416
+        width: 17
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5174489, y: 0.7681794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Helmet
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShirtArmL
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 401
+        width: 34
+        height: 21
+      alignment: 9
+      pivot: {x: 0.774669, y: 0.5276925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 400
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 298
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HelmetShine
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 172
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mouth
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 283
+        width: 64
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25582582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ForearmR
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 251
+        width: 27
+        height: 7
+      alignment: 9
+      pivot: {x: 0.101026185, y: 0.5299726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shirt
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 223
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boot
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 247
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: 0.2631536, y: 0.75472045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pelvis
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 231
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ForearmL
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 236
+        width: 27
+        height: 7
+      alignment: 9
+      pivot: {x: 0.9001137, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShirtArmR
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 206
+        width: 34
+        height: 21
+      alignment: 9
+      pivot: {x: 0.19841991, y: 0.5508147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThighL
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 185
+        width: 20
+        height: 34
+      alignment: 9
+      pivot: {x: 0.48473892, y: 0.74370486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ThighR
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 185
+        width: 20
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51526105, y: 0.74370486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BeltBuckle
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 214
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eye
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 185
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neck
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 175
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5000011, y: 0.16086918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -2, y: -2}
+      - {x: -2, y: 2}
+      - {x: 2, y: 2}
+      - {x: 2, y: -2}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
